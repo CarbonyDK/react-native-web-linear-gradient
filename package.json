@@ -4,6 +4,7 @@
   "description": "React Native for Web implementation of react-native-linear-gradient",
   "main": "dist/index.js",
   "main-es": "src/index.js",
+  "types": "src/index.d.ts",
   "repository": "https://github.com/react-native-web-community/react-native-web-linear-gradient",
   "author": {
     "name": "Louis Lagrange",
